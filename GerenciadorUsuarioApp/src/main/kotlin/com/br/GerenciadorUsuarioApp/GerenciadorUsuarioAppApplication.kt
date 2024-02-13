@@ -1,5 +1,4 @@
 package com.br.GerenciadorUsuarioApp
-
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
@@ -8,7 +7,4 @@ class GerenciadorUsuarioAppApplication
 
 fun main(args: Array<String>) {
 	runApplication<GerenciadorUsuarioAppApplication>(*args)
-
-
-
 }
